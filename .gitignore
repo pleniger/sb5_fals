@@ -1,0 +1,5 @@
+vendor/
+storage/export/*
+!storage/export/.gitkeep
+storage/upload/*
+!storage/upload/.gitkeep
